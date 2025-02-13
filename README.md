@@ -1,6 +1,4 @@
-Here’s a sample GitHub README for your project, "Deep Reinforcement Learning Based Trading Strategy":
 
----
 
 # Deep Reinforcement Learning Based Trading Strategy
 
@@ -82,6 +80,4 @@ The model’s performance is visualized by plotting the stock prices along with 
 
 The Deep Q-Learning-based agent successfully learns to trade and achieves profit on the test dataset. While further hyperparameter tuning and more extensive testing could improve performance, the model demonstrates the effectiveness of reinforcement learning for stock trading.
 
----
 
-Let me know if you'd like to adjust or expand the README further!
